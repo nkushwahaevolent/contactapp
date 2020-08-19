@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/contactapp/static/css/main.cb93c226.chunk.css",
+    "main.js": "/contactapp/static/js/main.aec42b31.chunk.js",
+    "main.js.map": "/contactapp/static/js/main.aec42b31.chunk.js.map",
+    "runtime-main.js": "/contactapp/static/js/runtime-main.b343062f.js",
+    "runtime-main.js.map": "/contactapp/static/js/runtime-main.b343062f.js.map",
+    "static/js/2.45efacf8.chunk.js": "/contactapp/static/js/2.45efacf8.chunk.js",
+    "static/js/2.45efacf8.chunk.js.map": "/contactapp/static/js/2.45efacf8.chunk.js.map",
+    "index.html": "/contactapp/index.html",
+    "precache-manifest.39a7ed89e0587b9b7b6ae5bd94dbd028.js": "/contactapp/precache-manifest.39a7ed89e0587b9b7b6ae5bd94dbd028.js",
+    "service-worker.js": "/contactapp/service-worker.js",
+    "static/css/main.cb93c226.chunk.css.map": "/contactapp/static/css/main.cb93c226.chunk.css.map",
+    "static/js/2.45efacf8.chunk.js.LICENSE.txt": "/contactapp/static/js/2.45efacf8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b343062f.js",
+    "static/js/2.45efacf8.chunk.js",
+    "static/css/main.cb93c226.chunk.css",
+    "static/js/main.aec42b31.chunk.js"
+  ]
+}
